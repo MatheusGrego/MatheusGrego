@@ -1,8 +1,8 @@
 ### Olá, eu sou o Matheus👋
 
 
-- 🔭Técnico formado em Desenvolvimento de Sistemas.
-- 🌱 Desenvolvedor Back End.
+- 🔭 Cursando Ciência da Computação.
+- 🌱 Low-level enjoyer.
 - 👯 Contate-me no email: matheusdeleongrego@gmail.com.
 
 
