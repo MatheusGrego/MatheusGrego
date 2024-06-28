@@ -21,8 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MatheusGrego/MatheusGrego/output/snake.svg" alt="Snake animation" />
-
-###
