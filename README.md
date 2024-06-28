@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, Java, Spring, AWS ecosystem.**
 
-- 👯 I’m looking to collaborate on **In any Rust/Java project.**
+- 👯 I’m looking to collaborate **In any Rust/Java project.**
 
 ###
 
