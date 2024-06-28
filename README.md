@@ -1,5 +1,12 @@
 <h2 align="left">Hi 👋! My name is Matheus and I'm a Software Engineer from Brazil</h2>
 
+
+- 🔭 I’m currently working on **Simple HWID Spoofer in Rust.**
+
+- 🌱 I’m currently learning **Rust, Java, Spring, AWS ecosystem.**
+
+- 👯 I’m looking to collaborate on **In any Rust/Java project.**
+
 ###
 
 <div align="center">
