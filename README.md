@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate **In any Rust/Java project.**
 
+- 👾 Reverse engineer (X86 Assembly)
+
 ###
 
 <div align="center">
