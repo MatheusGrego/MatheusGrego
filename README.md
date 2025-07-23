@@ -10,7 +10,7 @@
 </div>
 
 -  I’m currently working on personal projects
-- ☕ Coding in [Java](https://www.java.com/en/)) and 🦀 [Rust](https://www.rust-lang.org/) 
+- ☕ Coding in [Java](https://www.java.com/en/) and 🦀 [Rust](https://www.rust-lang.org/) 
 - 👾 Passionate reverse engineer (x86 Assembly)
 - 🌱 I’m currently learning Rust, Java, Spring, AWS ecosystem.
 - 👯 I’m looking to collaborate In any Rust/Java project.
