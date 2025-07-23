@@ -1,5 +1,4 @@
 <div>
-  <img align="left" height="130px" src="profile.png">
   
   <h2>Hello! 👋</h2>
 
